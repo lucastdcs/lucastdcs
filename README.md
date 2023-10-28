@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 Hello, there. This is Lucas!<br><br>I'm currently a FullStack Development student, focused on Java.<br><br>From São Paulo, Brazil. <br><br>Passionate about everything related to technology.<br><br>Contact me in lucas.txsan@gmail.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucastdcs) 
